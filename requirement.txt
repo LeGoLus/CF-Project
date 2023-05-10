@@ -1,3 +1,7 @@
+change name .env.example --> .env
+
 yarn install
 
 npx prisma db push
+
+yarn dev
