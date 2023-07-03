@@ -1,3 +1,13 @@
+# How to use this Projects
+
+step1: npm install
+
+step2: mv .env.example .env
+
+step3: npx prisma db push
+
+step4: npm run dev
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
